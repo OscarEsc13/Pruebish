@@ -1,0 +1,7 @@
+{
+  "name": "apposcar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
