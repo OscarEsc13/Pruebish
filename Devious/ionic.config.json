@@ -1,0 +1,7 @@
+{
+  "name": "Devious",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
