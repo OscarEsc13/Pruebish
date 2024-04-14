@@ -1,0 +1,7 @@
+{
+  "name": "Ardis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
